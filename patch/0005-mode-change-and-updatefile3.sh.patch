@@ -1,0 +1,21 @@
+From cff5bd9c65ed811016fc5b9a49bde1ece5dba796 Mon Sep 17 00:00:00 2001
+From: kk4578 <kunjpandya26@gmail.com>
+Date: Thu, 1 Jun 2023 17:28:12 +0530
+Subject: [PATCH 5/7] mode change and updatefile3.sh
+
+---
+ file3.sh | 1 +
+ 1 file changed, 1 insertion(+)
+ mode change 100644 => 100755 file3.sh
+
+diff --git a/file3.sh b/file3.sh
+old mode 100644
+new mode 100755
+index e69de29..868d824
+--- a/file3.sh
++++ b/file3.sh
+@@ -0,0 +1 @@
++mov r3 
+-- 
+2.7.4
+

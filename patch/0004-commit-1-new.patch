@@ -1,0 +1,64 @@
+From ce7f00efb04b811b6e1696c5064d1713812fce55 Mon Sep 17 00:00:00 2001
+From: kk4578 <kunjpandya26@gmail.com>
+Date: Thu, 1 Jun 2023 16:59:30 +0530
+Subject: [PATCH 4/7] commit 1 new
+
+Signed-off-by: kk4578 <kunjpandya26@gmail.com>
+---
+ file.txt  | 1 +
+ file2.txt | 2 ++
+ file3.c   | 0
+ file3.sh  | 0
+ file3.txt | 1 +
+ file4.c   | 0
+ file4.sh  | 0
+ file4.txt | 0
+ 8 files changed, 4 insertions(+)
+ create mode 100644 file2.txt
+ create mode 100644 file3.c
+ create mode 100644 file3.sh
+ create mode 100644 file3.txt
+ create mode 100644 file4.c
+ create mode 100644 file4.sh
+ create mode 100644 file4.txt
+
+diff --git a/file.txt b/file.txt
+index ce01362..317e967 100644
+--- a/file.txt
++++ b/file.txt
+@@ -1 +1,2 @@
+ hello
++hello
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..9a80a22
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1,2 @@
++hello
++
+diff --git a/file3.c b/file3.c
+new file mode 100644
+index 0000000..e69de29
+diff --git a/file3.sh b/file3.sh
+new file mode 100644
+index 0000000..e69de29
+diff --git a/file3.txt b/file3.txt
+new file mode 100644
+index 0000000..f2aa86d
+--- /dev/null
++++ b/file3.txt
+@@ -0,0 +1 @@
++hello 
+diff --git a/file4.c b/file4.c
+new file mode 100644
+index 0000000..e69de29
+diff --git a/file4.sh b/file4.sh
+new file mode 100644
+index 0000000..e69de29
+diff --git a/file4.txt b/file4.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.7.4
+
